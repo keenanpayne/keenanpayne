@@ -31,9 +31,7 @@ I’ve been building web experiences for 13 years professionally. I specialize i
 - 📨 [Get in touch](https://keenanpayne.com/contact/) if you want to work together.
 - ✍🏻 [Subscribe](https://keenanpayne.com/subscribe/) to my infrequent newsletter about life, web dev, and whatever I want.
 
----
-
-<h2 align="center">Tools of the trade</h2>
+<h3 align="center">Tools of the trade</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -48,8 +46,6 @@ I’ve been building web experiences for 13 years professionally. I specialize i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </p>
-
----
 
 ## ✍🏻 Recent blog posts
 
