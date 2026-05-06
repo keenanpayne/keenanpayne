@@ -1,56 +1,22 @@
 <h1 align="center">Hey there, I'm Keenan ✌🏻</h1>
 
-<h3 align="center">I build beautiful, scalable web experiences.</h3>
+<h2 align="center">UX & Frontend Platform Architect</h2>
 
-<br />
+I work with growth-stage SaaS companies to turn fragmented frontend, UX, and content systems into coherent, scalable platforms. 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/keenanpayne" title="Visit my LinkedIn profile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+Over the past 18+ years, I’ve worked at the intersection of design and engineering, building web platforms that support millions of users and generate millions in revenue. My work focuses on the structural challenges that emerge as software companies grow — duplicated UI patterns, inconsistent design systems, fragmented marketing and product experiences, and frontend architectures that slow teams down.
 
-  <a href="https://twitter.com/KeenanPayne_" title="Visit my Twitter profile">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+Earlier in my career, I helped design and scale the web platform at Asana, where I built component systems, unified design and engineering practices, and developed tooling that enabled non-technical teams to publish content safely and efficiently.
 
-<br />
+Today, I partner with SaaS companies to design the foundational systems that allow product and marketing teams to move quickly without sacrificing coherence or long-term maintainability.
 
-I’ve been building web experiences for 13 years professionally. I specialize in collaborating with designers and stakeholders to design and develop beautiful and functional user interfaces. 
+My work typically includes:
 
-## 👋🏻 About
+- Frontend platform architecture
+- UI/UX system design and design system governance
+- Marketing + product experience unification
+- Component architecture and design tokens
+- Content architecture and CMS strategy
+- Large-scale frontend refactors and platform migrations
 
-- 🔭 **I’m currently working on** re-architecting the frontend code for [Stable Auto](https://stable.auto/) using modern React.js practices and brand-spankin’ new UI components.
-- 🌱 **I’m currently learning** React.js architecture, the history of computing and the internet, and the history of programming languages.
-- 💬 **Ask me anything about** web development, coffee, or personal knowledge management.
-- 😄 **Pronouns:** he/him/his
-
-### Want to get serious?
-
-- 👋🏻 You can [learn more about me](https://keenanpayne.com/about/).
-- 📨 [Get in touch](https://keenanpayne.com/contact/) if you want to work together.
-- ✍🏻 [Subscribe](https://keenanpayne.com/subscribe/) to my infrequent newsletter about life, web dev, and whatever I want.
-
-<h3 align="center">Tools of the trade</h3>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" title="Eleventy" alt="Eleventy" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-</p>
-
-## ✍🏻 Recent blog posts
-
-- [Building beautiful multi-line buttons with CSS](https://keenanpayne.com/css-multi-line-buttons/)
-- [Don’t alter scrolling mechanics by scroll-jacking](https://keenanpayne.com/scrolling/)
-- [Questions I ask myself before learning something new](https://keenanpayne.com/before-learning/)
-- [Switching from Android to iPhone after ten years](https://keenanpayne.com/switch-from-android-to-iphone/)
-- [Thank you Chris for CSS-Tricks](https://keenanpayne.com/css-tricks/)
+I often work with companies as a fractional platform architect, helping teams define the long-term structure of their frontend and UX systems so they can scale without accumulating design or technical debt.
