@@ -1,7 +1,5 @@
 <h1 align="center">Hey there, I'm Keenan ✌🏻</h1>
 
-<h2 align="center">UX & Frontend Platform Architect</h2>
-
 I work with growth-stage SaaS companies to turn fragmented frontend, UX, and content systems into coherent, scalable platforms. 
 
 Over the past 18+ years, I’ve worked at the intersection of design and engineering, building web platforms that support millions of users and generate millions in revenue. My work focuses on the structural challenges that emerge as software companies grow — duplicated UI patterns, inconsistent design systems, fragmented marketing and product experiences, and frontend architectures that slow teams down.
